@@ -1,4 +1,4 @@
-# Elements of Machine Learning & Deep Learning
+# Machine & Deep Learning Fundamentals
 
 This repository contains a collection of hands-on Jupyter Notebooks developed for machine learning and deep learning. The projects range from foundational statistical modeling and optimization techniques to the core mechanics of deep neural networks and modern transformer architectures.
 
